@@ -1,6 +1,5 @@
 import getWikiResults from "@/lib/getWikiResults"
 import Items from "./components/Items"
-import { title } from "process"
 
 type Props = {
   params: {
